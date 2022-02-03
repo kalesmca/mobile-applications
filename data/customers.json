@@ -1,0 +1,20 @@
+[
+    {
+        "id":"d1",
+        "name": "Aarumugasamy",
+        "label": "ஆறுமுகச்சாமி பலசரக்கு கடை",
+        "age": 23,
+        "department": "MCA",
+        "city":"தளவாய்புரம்"
+    },
+    {
+        "id":"d2",
+        "name": "Saravanas",
+        "label": "ஆறுமுகச்சாமி பலசரக்கு கடை",
+        "age": 23,
+        "department": "BCA",
+        "city":"தளவாய்புரம்"
+    }
+   
+
+]
